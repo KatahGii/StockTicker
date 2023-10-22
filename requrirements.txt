@@ -1,0 +1,4 @@
+### requirements.txt
+
+yfinance==0.1.70
+pytz==2022.1
